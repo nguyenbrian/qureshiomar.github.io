@@ -20,7 +20,6 @@ h1{
     width: 250px;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 12%
 }
 #click{
     font-size: 15px;
@@ -36,4 +35,11 @@ h1{
     font-size: 15px;
     font-family: 'Lato', sans-serif;
     color: white;
+}
+.main{
+  top: 50%;
+  position: absolute;
+  left: 50%;
+  margin-top: -230px;
+  margin-left: -150px;
 }
