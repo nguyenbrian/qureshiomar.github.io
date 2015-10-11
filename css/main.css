@@ -36,5 +36,10 @@ h1{
     font-family: 'Lato', sans-serif;
     color: white;
 }
-#main{
+.main{
+  top: 50%;
+  position: absolute;
+  left: 50%;
+  margin-top: -230px;
+  margin-left: -150px;
 }
